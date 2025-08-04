@@ -2,6 +2,8 @@
 
 Exercice 2 of week 2 from the VueJS track at **LeReacteur**.
 
+![Demo](https://i.imgur.com/w80vZKA.gif)
+
 ---
 
 ## ✅ Project Setup
