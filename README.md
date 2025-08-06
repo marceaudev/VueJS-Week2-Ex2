@@ -2,7 +2,7 @@
 
 Exercice 2 of week 2 from the VueJS track at **LeReacteur**.
 
-![Demo](https://i.imgur.com/w80vZKA.gif)
+![proj6](https://github.com/user-attachments/assets/11ee32ea-6a69-442f-b2e2-10594a021e63)
 
 ---
 
